@@ -153,3 +153,43 @@ a {
     padding-top: 16px;
 }
 
+.ad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.ad-container {
+    display: flex;
+    gap: 50px;
+    background-color: #3882F6;
+    padding: 50px 150px;
+    border-radius: 12px;
+}
+
+.ad-all-text  {
+    display: flex;
+    flex-direction: column;
+}
+
+.ad-header {
+    color: aliceblue;
+    font-size: 24px;
+    padding-bottom: 2px;
+}
+
+.ad-text {
+    color: #e5e7eb;
+}
+
+.ad-sign-up {
+    border-radius: 12px;
+    border: 2px solid #f9faf8;
+    width: max-content;
+    height: max-content;
+    color: #e5e7eb;
+    padding: 8px 32px;
+    font-size: 20px;
+    background-color: #3882F6;
+}
