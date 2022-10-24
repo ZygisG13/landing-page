@@ -127,3 +127,29 @@ a {
     gap: 56px;
     padding-bottom: 100px;
 }
+
+
+.qoute {
+    background-color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+}
+
+.qoute-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    max-width: 800px;
+}
+
+.qoute-footer-text {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: 800;
+    width: 570px;
+    padding-top: 16px;
+}
+
