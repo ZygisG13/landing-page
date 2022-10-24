@@ -147,11 +147,12 @@ a {
 }
 
 .qoute-footer-text {
-    align-self: flex-end;
+    text-align: end;
     font-size: 24px;
+    width: 800px;
     font-weight: 800;
-    width: 570px;
     padding-top: 16px;
+    
 }
 
 .ad {
